@@ -2752,3 +2752,12 @@ justin dorfman:
   email: justin.dorfman@sourcegraph.com
   links: '[Twitter](https://twitter.com/jdorfman), [LinkTree](https://linktr.ee/jdorfman)'
   description: Justin is responsible for fostering the adoption of universal code search in the open source community. Previously, he led similar initiatives for Curifense (a CNCF project), Gitcoin, & MaxCDN. He has contributed to Bootstrap, Font Awesome, jQuery, Nginx, GNU Bash, and many more. He also serves on the Open Source Collective board of directors. In 2017, he co-founded SustainOSS, which hosts events and podcasts for Open Source Software Sustainers.
+
+todd_herskovitz:
+  name: Todd Herskovitz
+  email: todd.herskovitz@sourcegraph.com
+  github: toddherskovitz
+  role: Strategic Account Executive
+  reports_to: vp_sales_western_region
+  location: San Francisco, CA, USA 🇺🇸
+  description: Todd is a Strategic Account Executive supporting Sourcegraphs largest customers. Prior to joining Sourcegraph, Todd spent 15 years at Slack and  Google. Outside of work, Todd loves all things food, being in nature, and going to see live music
